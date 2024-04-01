@@ -3,6 +3,9 @@ dist
 out
 .DS_Store
 *.log*
+.idea
+.vscode
+yarn.lock
 
 # Project exclude paths
 /src/preload/index.d.ts
